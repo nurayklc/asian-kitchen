@@ -1,2 +1,2 @@
 ## Asian Kitchen
-![](js-todo-list.gif)
+![](asian-kitchen.gif)
